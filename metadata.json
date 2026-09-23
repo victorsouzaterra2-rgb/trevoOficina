@@ -1,0 +1,6 @@
+{
+  "name": "Trevo Oficina Especializada",
+  "description": "Sistema web completo para a Oficina Mecânica Trevo: agendamento de serviços, orçamento online, loja de óleos automotivos e painel de gestão para o proprietário.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
